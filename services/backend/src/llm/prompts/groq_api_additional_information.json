@@ -1,0 +1,12 @@
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an AI that provides information about companies."
+        },
+        {
+            "role": "user",
+            "content": "Please compare the company {company_name} to its closest competitors."
+        }
+    ]
+}
